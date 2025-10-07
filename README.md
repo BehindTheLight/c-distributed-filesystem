@@ -228,12 +228,6 @@ This project demonstrates:
 - **Distributed Systems**: Basic concepts of distributed file storage
 - **C Programming**: System programming and network protocols
 
-## Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
 ## Acknowledgments
 
 - Inspired by distributed systems concepts
